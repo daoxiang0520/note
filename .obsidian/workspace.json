@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
+                "file": "3-Resources/CSAPP/CSAPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数字逻辑与数字电路"
+              "title": "CSAPP"
             }
           }
         ]
@@ -164,17 +164,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
+                "file": "3-Resources/CSAPP/CSAPP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数字逻辑与数字电路 的大纲"
+              "title": "CSAPP 的大纲"
+            }
+          },
+          {
+            "id": "4ec605fc5f00d13b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,19 +202,31 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "realclaudian:Open Claudian": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "marp:Marp: Open Preview": false,
       "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
       "univer:Univer": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "613fb0cb417a1ac0",
+  "active": "853fb5761c7add57",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
-    "3-Resources/CSAPP/CSAPP.md",
-    "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
     "3-Resources/AI/AI相关.md",
+    "3-Resources/CSAPP/CSAPP.md",
+    "Attachments/AI/img_045.png",
+    "Attachments/AI/img_044.png",
+    "Attachments/AI/img_043.png",
+    "Attachments/AI/img_042.png",
+    "Attachments/AI/img_041.png",
+    "Attachments/AI/img_040.png",
+    "Attachments/AI/img_039.png",
+    "CLAUDE.md",
+    "README.md",
+    "CLAUDE.md.tmp.55648.7d02786f8ee0",
+    "Attachments/csapp/notes/CH3-buffer-overflow.md",
+    "Attachments/csapp/notes/CH3-machine-basics.md",
+    "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
+    "auto-push.bat",
+    "新建 文本文档.txt",
     "CLAUDE.md.tmp.35636.61732d634b49",
     "3-Resources/数字逻辑与数字电路.md",
     "3-Resources/数字逻辑与数字电路",
@@ -221,11 +243,8 @@
     "3-Resources/数字逻辑与数字电路/quiz-2026.md",
     "3-Resources/数字逻辑与数字电路/quiz-2026.md.tmp.35636.50303c3e166d",
     "3-Resources/CSAPP/GDB-tutorial.md",
-    "3-Resources/CSAPP/GDB-tutorial.md.tmp.35636.11f3dc7e230c",
     "3-Resources/CSAPP/CH5-3-parallel-optimization.md",
-    "3-Resources/CSAPP/CH5-3-parallel-optimization.md.tmp.35636.db4db3189c92",
     "3-Resources/数字逻辑与数字电路/review-exercises.md",
-    "3-Resources/数字逻辑与数字电路/review-exercises.md.tmp.35636.d6aee9f5762f",
     "3-Resources/数字逻辑与数字电路/chap5-sequential-circuits.md",
     "3-Resources/CSAPP/CH5-2-instruction-level-parallelism.md",
     "3-Resources/CSAPP/GDB-cheatsheet.md",
@@ -233,20 +252,9 @@
     "3-Resources/CSAPP/CH9-garbage-collection.md",
     "3-Resources/CSAPP/CH9-memory-allocation-advanced.md",
     "3-Resources/CSAPP/activity-machine-advanced.md",
-    "3-Resources/CSAPP/CH5-1-program-optimization.md",
-    "3-Resources/CSAPP/CH9-memory-allocation-basics.md",
-    "3-Resources/数字逻辑与数字电路/chap4-combinational-analysis.md",
-    "3-Resources/CSAPP/CH9-virtual-memory-details.md",
     "Attachments/AI/img_038.png",
     "Attachments/AI/img_037.png",
     "Attachments/AI/img_036.png",
-    "Attachments/AI/img_035.png",
-    "Attachments/AI/img_034.png",
-    "Attachments/AI/img_033.png",
-    "Attachments/AI/img_032.png",
-    "Attachments/AI/img_031.png",
-    "Attachments/AI/img_030.png",
-    "Attachments/AI/img_029.png",
     "未命名.canvas"
   ]
 }

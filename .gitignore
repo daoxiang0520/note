@@ -7,3 +7,6 @@
 # OS files
 Thumbs.db
 .DS_Store
+
+# Local scripts
+auto-push.bat

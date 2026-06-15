@@ -489,24 +489,24 @@ Solution：Residual connection（残差连接）
 
 ### Data processing
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NDQ3ZGU5MmU1NzhlYWU4ZmZjNzllOTc2YzQ0YzI1MTZfYjlmZmUyMzcwNWFmMmVkYzBjNmZlMGY4YzA1OTBkYjlfSUQ6NzY0MDY4OTY3Mzg2OTg1NTcwN18xNzgxNTAxMDE1OjE3ODE1MDQ2MTVfVjM)
+![](Attachments/AI/img_039.png)
 
 ### Data augmentation(数据增强)
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=YmVjNWM0ODY2NDM1OWU1ZjM0MTAzN2VmOWViZjU3M2FfYzY4YjZlNDljNWJmMzVlMzNlZTU2NjRkMDlmZmYxMjFfSUQ6NzY0MDY5MDEyOTA4MTgzMDM1Nl8xNzgxNTAxMDE0OjE3ODE1MDQ2MTRfVjM)
+![](Attachments/AI/img_040.png)
 
 对数据/图层进行转换：水平翻转，随机调整图片crops/scales（裁切图片），测试时间增强，Color Jitter，Cutout
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=M2YxMTJmYzk2ZjBjODljYjQ3YmY3MzczOTVkZjM2ZTBfNDc4Y2Q0YTM3ZWY1YTZiODAxNDZjZDkyMWI2MGVmZDJfSUQ6NzY0MDY5MjkwMTI4NjMwMDg1M18xNzgxNTAxMDE1OjE3ODE1MDQ2MTVfVjM)
+![](Attachments/AI/img_041.png)
 
 ### Transfer learning
 
 微调layer，冻结其他层来获得更好的结果
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTA3NWQ1NDhmZThhNGZkNGRkNWIwMTQ5ZDVmYTY5MjVfNGVlNjlkZjU0MDc4NWE5NzYxODA0NmQ4ZTY0NGM1ZDNfSUQ6NzY0MDY5NTA5NDk3ODQxNTgxNF8xNzgxNTAxMDE0OjE3ODE1MDQ2MTRfVjM)
+![](Attachments/AI/img_042.png)
 
 ### Hyperparameters
 
 Learning rate:1e-1~1e-5
 
-![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZTllZDg1ODk4MjAwOTQ4YjcwZTMyMTdkZTI4Njg3MTlfMWUzODgzMTEwMjQ4ZGM3YzNmMzhkN2JlNGQxZjdkYWRfSUQ6NzY0MDY5NjQyODEwODQ4MzUzNF8xNzgxNTAxMDE1OjE3ODE1MDQ2MTVfVjM)
+![](Attachments/AI/img_043.png)
