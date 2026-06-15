@@ -1,0 +1,9 @@
+# Obsidian plugin compiled files (may contain bundled secrets)
+.obsidian/plugins/remotely-save/main.js
+.obsidian/plugins/remotely-save/main.js.map
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/main.js.map
+
+# OS files
+Thumbs.db
+.DS_Store
