@@ -11,14 +11,12 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3-Resources/CSAPP/CSAPP.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CSAPP"
+              "icon": "lucide-file-text",
+              "title": "L1-Chap2-数制与编码"
             }
           }
         ]
@@ -164,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resources/CSAPP/CSAPP.md",
+                "file": "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CSAPP 的大纲"
+              "title": "L1-Chap2-数制与编码 的大纲"
             }
           },
           {
@@ -208,10 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "853fb5761c7add57",
+  "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
-    "3-Resources/AI/AI相关.md",
+    "Attachments/数字逻辑与数字电路/originals/随堂测验卷2026 .pdf",
     "3-Resources/CSAPP/CSAPP.md",
+    "3-Resources/AI/AI相关.md",
     "Attachments/AI/img_045.png",
     "Attachments/AI/img_044.png",
     "Attachments/AI/img_043.png",
