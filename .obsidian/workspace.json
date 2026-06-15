@@ -11,12 +11,14 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf"
+                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "L1-Chap2-数制与编码"
+              "icon": "lucide-file",
+              "title": "数字逻辑与数字电路"
             }
           }
         ]
@@ -162,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
+                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "L1-Chap2-数制与编码 的大纲"
+              "title": "数字逻辑与数字电路 的大纲"
             }
           },
           {
@@ -208,6 +210,8 @@
   },
   "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
+    "Attachments/数字逻辑与数字电路/originals/L1-Chap1-概述.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
     "Attachments/数字逻辑与数字电路/originals/随堂测验卷2026 .pdf",
     "3-Resources/CSAPP/CSAPP.md",
     "3-Resources/AI/AI相关.md",
@@ -238,9 +242,7 @@
     "3-Resources/CSAPP/CH2-float.md",
     "CLAUDE.md.tmp.35636.2f90350d538c",
     "3-Resources/CSAPP/Linux101.md",
-    "3-Resources/CSAPP/Linux101.md.tmp.35636.032619918d8c",
     "3-Resources/数字逻辑与数字电路/quiz-2026.md",
-    "3-Resources/数字逻辑与数字电路/quiz-2026.md.tmp.35636.50303c3e166d",
     "3-Resources/CSAPP/GDB-tutorial.md",
     "3-Resources/CSAPP/CH5-3-parallel-optimization.md",
     "3-Resources/数字逻辑与数字电路/review-exercises.md",
