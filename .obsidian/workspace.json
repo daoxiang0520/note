@@ -11,14 +11,12 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "数字逻辑与数字电路"
+              "icon": "lucide-file-text",
+              "title": "复习+参考习题(1)"
             }
           }
         ]
@@ -164,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
+                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数字逻辑与数字电路 的大纲"
+              "title": "复习+参考习题(1) 的大纲"
             }
           },
           {
@@ -210,8 +208,8 @@
   },
   "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
-    "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
+    "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
     "Attachments/数字逻辑与数字电路/originals/L1-Chap1-概述.pdf",
     "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
     "Attachments/数字逻辑与数字电路/originals/随堂测验卷2026 .pdf",
@@ -236,7 +234,6 @@
     "3-Resources/数字逻辑与数字电路",
     "3-Resources/CSAPP",
     "3-Resources/CSAPP.md",
-    "CLAUDE.md.tmp.35636.54b853d6b6b8",
     "3-Resources/CSAPP/CH6-memory-hierarchy.md",
     "3-Resources/CSAPP/CH3-machine-basics.md",
     "3-Resources/CSAPP/activity-machine-procedures.md",
