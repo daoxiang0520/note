@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "24-25数字逻辑期中试卷及答案 的反向链接列表"
             }
           },
           {
@@ -181,8 +182,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ba4464b23531c5",
+  "active": "51afb87d8334df00",
   "lastOpenFiles": [
     "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑复习及参考习题.pdf",
     "Attachments/数字逻辑与数字电路/exam/23-24wa数字逻辑期末试卷答案.pdf",
