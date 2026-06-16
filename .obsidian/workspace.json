@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/L2-Chap2-逻辑代数.pdf"
+                "file": "Attachments/数字逻辑与数字电路/originals/L6-Chap3-Chap4-组合逻辑电路分析与设计.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "L2-Chap2-逻辑代数"
+              "title": "L6-Chap3-Chap4-组合逻辑电路分析与设计"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/L2-Chap2-逻辑代数.pdf",
+                "file": "Attachments/数字逻辑与数字电路/originals/L6-Chap3-Chap4-组合逻辑电路分析与设计.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "L2-Chap2-逻辑代数 的反向链接列表"
+              "title": "L6-Chap3-Chap4-组合逻辑电路分析与设计 的反向链接列表"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/L2-Chap2-逻辑代数.pdf",
+                "file": "Attachments/数字逻辑与数字电路/originals/L6-Chap3-Chap4-组合逻辑电路分析与设计.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "L2-Chap2-逻辑代数 的大纲"
+              "title": "L6-Chap3-Chap4-组合逻辑电路分析与设计 的大纲"
             }
           },
           {
@@ -182,7 +182,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,10 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ba4464b23531c5",
+  "active": "517e898b719b750f",
   "lastOpenFiles": [
-    "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
+    "3-Resources/知识库导航.md",
+    "Attachments/数字逻辑与数字电路/originals/L5-Chap3-Verilog HDL基本语法.pdf",
     "Attachments/数字逻辑与数字电路/originals/L4-Chap2-逻辑门电路.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L3-Chap2-逻辑函数的化简.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L2-Chap2-逻辑代数.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
     "Attachments/数字逻辑与数字电路/originals/L1-Chap1-概述.pdf",
     "Attachments/数字逻辑与数字电路/originals/随堂测验卷2026 .pdf",
     "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
@@ -217,11 +222,7 @@
     "Attachments/数字逻辑与数字电路/notes/chap2-boolean-algebra.md",
     "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf",
     "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑复习及参考习题.pdf",
-    "Attachments/数字逻辑与数字电路/exam/23-24wa数字逻辑期末试卷答案.pdf",
-    "Attachments/数字逻辑与数字电路/exam/23-24wa数字逻辑期末试卷.pdf",
     "CLAUDE.md",
-    "Attachments/数字逻辑与数字电路/exam/~$24wa复习-数逻与EDA.pptx",
-    "CLAUDE.md.tmp.57000.bfb1b68d6183",
     "Attachments/数字逻辑与数字电路/notes/chap4-hazards.md",
     "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
