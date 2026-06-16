@@ -11,12 +11,14 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf"
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "复习+参考习题(1)"
+              "icon": "lucide-file",
+              "title": "CLAUDE"
             }
           }
         ]
@@ -162,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复习+参考习题(1) 的大纲"
+              "title": "CLAUDE 的大纲"
             }
           },
           {
@@ -206,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "517e898b719b750f",
+  "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
+    "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
     "CLAUDE.md.tmp.57000.bfb1b68d6183",
     "Attachments/数字逻辑与数字电路/exam/18-19数字逻辑期末试卷A参考答案.pdf",
     "Attachments/数字逻辑与数字电路/exam/18-19数字逻辑期末试卷A.pdf",
@@ -218,7 +221,6 @@
     "Attachments/数字逻辑与数字电路/exam/16-17rg数字逻辑期末试卷A.pdf",
     "Attachments/数字逻辑与数字电路/exam/15-16数字逻辑期末试卷A参考答案.pdf",
     "Attachments/数字逻辑与数字电路/exam/15-16数字逻辑期末试卷A.pdf",
-    "Attachments/数字逻辑与数字电路/exam/15-16rg数字逻辑期末试卷A.pdf",
     "Attachments/数字逻辑与数字电路/notes/chap4-hazards.md",
     "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
