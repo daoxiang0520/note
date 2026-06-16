@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf"
+                "file": "Attachments/数字逻辑与数字电路/exam/23-24wa数字逻辑期末试卷.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "24-25数字逻辑期中试卷及答案"
+              "title": "23-24wa数字逻辑期末试卷"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf",
+                "file": "Attachments/数字逻辑与数字电路/exam/23-24wa数字逻辑期末试卷.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "24-25数字逻辑期中试卷及答案 的大纲"
+              "title": "23-24wa数字逻辑期末试卷 的大纲"
             }
           },
           {
@@ -208,6 +208,7 @@
   },
   "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
+    "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf",
     "CLAUDE.md",
     "Attachments/数字逻辑与数字电路/exam/~$24wa复习-数逻与EDA.pptx",
     "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
