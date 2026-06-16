@@ -11,14 +11,12 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "review-exercises"
+              "icon": "lucide-file-text",
+              "title": "复习+参考习题(1)"
             }
           }
         ]
@@ -164,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
+                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "review-exercises 的大纲"
+              "title": "复习+参考习题(1) 的大纲"
             }
           },
           {
@@ -210,6 +208,7 @@
   },
   "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
+    "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
     "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
     "Attachments/数字逻辑与数字电路/originals/L1-Chap1-概述.pdf",
