@@ -11,12 +11,14 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf"
+                "file": "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "复习+参考习题(1)"
+              "icon": "lucide-file",
+              "title": "review-exercises"
             }
           }
         ]
@@ -162,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
+                "file": "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复习+参考习题(1) 的大纲"
+              "title": "review-exercises 的大纲"
             }
           },
           {
@@ -208,8 +210,8 @@
   },
   "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
-    "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
     "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
+    "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
     "Attachments/数字逻辑与数字电路/originals/L1-Chap1-概述.pdf",
     "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
     "Attachments/数字逻辑与数字电路/originals/随堂测验卷2026 .pdf",
