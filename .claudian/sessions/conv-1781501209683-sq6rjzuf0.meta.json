@@ -4,8 +4,8 @@
   "title": "Enable Feishu-like heading sidebar",
   "titleGenerationStatus": "success",
   "createdAt": 1781501209689,
-  "updatedAt": 1781585772408,
-  "lastResponseAt": 1781585772408,
+  "updatedAt": 1781586375199,
+  "lastResponseAt": 1781586375199,
   "sessionId": "31b075c3-5f51-468d-9353-6b58ad1e1dcc",
   "providerState": {
     "providerSessionId": "31b075c3-5f51-468d-9353-6b58ad1e1dcc",
@@ -2959,12 +2959,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 115,
+    "inputTokens": 62707,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 58496,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 58611,
-    "percentage": 29,
+    "contextTokens": 62707,
+    "percentage": 31,
     "contextWindowIsAuthoritative": true
   }
 }
