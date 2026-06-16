@@ -11,14 +11,12 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "icon": "lucide-file-text",
+              "title": "24-25数字逻辑期中试卷及答案"
             }
           }
         ]
@@ -164,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CLAUDE 的大纲"
+              "title": "24-25数字逻辑期中试卷及答案 的大纲"
             }
           },
           {
@@ -210,6 +208,7 @@
   },
   "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "Attachments/数字逻辑与数字电路/exam/~$24wa复习-数逻与EDA.pptx",
     "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
     "CLAUDE.md.tmp.57000.bfb1b68d6183",
@@ -220,7 +219,6 @@
     "Attachments/数字逻辑与数字电路/exam/16-17数字逻辑期末试卷A参考答案.pdf",
     "Attachments/数字逻辑与数字电路/exam/16-17数字逻辑期末试卷A.pdf",
     "Attachments/数字逻辑与数字电路/exam/16-17rg数字逻辑期末试卷A.pdf",
-    "Attachments/数字逻辑与数字电路/exam/15-16数字逻辑期末试卷A参考答案.pdf",
     "Attachments/数字逻辑与数字电路/notes/chap4-hazards.md",
     "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
@@ -233,7 +231,6 @@
     "Attachments/AI/img_041.png",
     "Attachments/AI/img_040.png",
     "Attachments/AI/img_039.png",
-    "CLAUDE.md",
     "README.md",
     "Attachments/csapp/notes/CH3-buffer-overflow.md",
     "Attachments/csapp/notes/CH3-machine-basics.md",
