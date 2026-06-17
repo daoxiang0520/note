@@ -11,12 +11,14 @@
             "id": "b5ba4464b23531c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/L6-Chap3-Chap4-组合逻辑电路分析与设计.pdf"
+                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路-大纲.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "L6-Chap3-Chap4-组合逻辑电路分析与设计"
+              "icon": "lucide-file",
+              "title": "数字逻辑与数字电路-大纲"
             }
           }
         ]
@@ -207,28 +209,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "517e898b719b750f",
+  "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
+    "Attachments/数字逻辑与数字电路/exam.md",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路-大纲.md",
+    "Attachments/数字逻辑与数字电路/originals/L3-Chap2-逻辑函数的化简.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L4-Chap2-逻辑门电路.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L2-Chap2-逻辑代数.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L1-Chap1-概述.pdf",
+    "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
+    "3-Resources/CSAPP/CSAPP.md",
     "3-Resources/CSAPP/CSAPP-大纲.md",
     "3-Resources/知识库导航.md",
+    "Attachments/数字逻辑与数字电路/originals/L6-Chap3-Chap4-组合逻辑电路分析与设计.pdf",
     "Attachments/数字逻辑与数字电路/originals/L5-Chap3-Verilog HDL基本语法.pdf",
-    "Attachments/数字逻辑与数字电路/originals/L4-Chap2-逻辑门电路.pdf",
-    "Attachments/数字逻辑与数字电路/originals/L3-Chap2-逻辑函数的化简.pdf",
-    "Attachments/数字逻辑与数字电路/originals/L2-Chap2-逻辑代数.pdf",
-    "Attachments/数字逻辑与数字电路/originals/L1-Chap2-数制与编码.pdf",
-    "Attachments/数字逻辑与数字电路/originals/L1-Chap1-概述.pdf",
     "Attachments/数字逻辑与数字电路/originals/随堂测验卷2026 .pdf",
     "Attachments/数字逻辑与数字电路/originals/复习+参考习题(1).pdf",
     "Attachments/数字逻辑与数字电路/notes/chap2-logic-gates.md",
     "Attachments/数字逻辑与数字电路/notes/chap2-boolean-algebra.md",
     "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑期中试卷及答案.pdf",
-    "Attachments/数字逻辑与数字电路/exam/24-25数字逻辑复习及参考习题.pdf",
     "CLAUDE.md",
     "Attachments/数字逻辑与数字电路/notes/chap4-hazards.md",
     "Attachments/数字逻辑与数字电路/notes/review-exercises.md",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
-    "3-Resources/CSAPP/CSAPP.md",
     "3-Resources/AI/AI相关.md",
     "Attachments/AI/img_045.png",
     "Attachments/AI/img_044.png",
@@ -251,7 +254,6 @@
     "3-Resources/CSAPP/GDB-tutorial.md",
     "3-Resources/CSAPP/CH5-3-parallel-optimization.md",
     "3-Resources/数字逻辑与数字电路/review-exercises.md",
-    "3-Resources/数字逻辑与数字电路/chap5-sequential-circuits.md",
     "Attachments/AI/img_038.png",
     "Attachments/AI/img_037.png",
     "Attachments/AI/img_036.png",
