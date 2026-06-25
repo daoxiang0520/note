@@ -2,15 +2,17 @@
 
 基于 Obsidian 的个人笔记系统，使用 PARA 方法论组织。
 
-## 当前会话蒸馏（2026-06-16）
+## 当前会话蒸馏（2026-06-25）
 
 ### 最新变更
+- **马克思主义原理模块新建**：基于 2023 版统编教材，已整理 7 章重点章节（第一章§1-2、第二章§1/§3、第三章§1-2、第四章§2-3、第五章§2、第六章§2、第七章§1），每章为独立 Q&A 笔记 + Mermaid 思维导图
 - **CLAUDE.md → README.md**：本文件为新的 AI 指令，原内容已移至 README.md（仓库说明）
 - **知识库镜像**：`3-Resources/CSAPP/CSAPP.md`（6425 行，29 节）和 `3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md`（2564 行，16 节）是完整的知识点合并总结，每节对应一个课件/章节，可在 Obsidian 大纲侧栏直接跳转
 - **Git 推送修复**：`obsidian-git` 插件已安装，commit 信息配置为 `{{date}}`（仅日期）；已排除 `.obsidian/plugins/*/main.js`（含第三方 OAuth 凭据）
 - **飞书图片修复**：`3-Resources/AI/AI相关.md` 中 43 张失效飞书链接已全部替换为本地图片 `Attachments/AI/img_*.png`
-- **附件目录规范**：`Attachments/csapp/` 和 `Attachments/数字逻辑与数字电路/` 使用 `originals/`（原始 PDF/PPTX）+ `notes/`（可读 MD）+ `知识库概览.md`（索引）结构
+- **附件目录规范**：`Attachments/csapp/`、`Attachments/数字逻辑与数字电路/`、`Attachments/马克思主义原理/` 使用 `originals/`（原始 PDF/PPTX）+ `notes/`（可读 MD）+ `知识库概览.md`（索引）结构
 - **历年试卷归档**：`Attachments/数字逻辑与数字电路/exam/` 新增 50+ 份历年期末试卷（06-07 ~ 24-25 学年），含试题与参考答案
+- **马克思主义原理笔记**：`Attachments/马克思主义原理/notes/` 7 章 Q&A 笔记，每章含 Mermaid 思维导图
 
 ### 知识库概览
 | 位置 | 内容 | 来源 |
@@ -18,15 +20,17 @@
 | `Attachments/csapp/notes/` | CSAPP 29 篇笔记（CH2~CH9 + 活动 + 工具） | CMU 15-213 原版课件 |
 | `Attachments/数字逻辑与数字电路/notes/` | 数字逻辑 17 篇笔记（Chap1~Chap5 + 复习） | 武汉大学 2025-2026 课件 |
 | `Attachments/数字逻辑与数字电路/exam/` | 50+ 份历年期末试卷（含答案） | 武汉大学 2006~2025 |
+| `Attachments/马克思主义原理/notes/` | 马克思主义原理 7 章 Q&A 笔记（含思维导图） | 2023 版统编教材 |
 | `3-Resources/CSAPP/CSAPP.md` | 知识点总结合并版（29 节） | AI 生成 |
 | `3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md` | 知识点总结合并版（16 节） | AI 生成 |
 | `3-Resources/AI/AI相关.md` | AI/深度学习笔记（含本地图片） | 飞书导入 |
 | `Attachments/AI/img_*.png` | 45 张本地化图片 | 飞书原文下载 |
 
 ### 文件分类
-- `originals/` = 源课件归档（PDF/PPTX），不经修改
-- `notes/` = 转换的 Markdown 笔记，按课件逐份对应，可读可搜
+- `originals/` = 源课件/课本归档（PDF/PPTX），不经修改
+- `notes/` = 转换的 Markdown 笔记，可读可搜
 - `exam/` = 历年试卷归档（PDF），按学年命名，含试题与参考答案
+- Q&A 笔记 = 问题—解答格式，含 Mermaid 思维导图，适合复习
 - 合并版 MD（`3-Resources/` 下）= 知识点提炼，适合复习速查
 
 ## 目录结构
