@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路-大纲.md",
+                "file": "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数字逻辑与数字电路-大纲"
+              "title": "数字逻辑与数字电路"
             }
           }
         ]
@@ -211,8 +211,8 @@
   },
   "active": "b5ba4464b23531c5",
   "lastOpenFiles": [
-    "Attachments/数字逻辑与数字电路/exam.md",
     "3-Resources/数字逻辑与数字电路/数字逻辑与数字电路-大纲.md",
+    "Attachments/数字逻辑与数字电路/exam.md",
     "Attachments/数字逻辑与数字电路/originals/L3-Chap2-逻辑函数的化简.pdf",
     "Attachments/数字逻辑与数字电路/originals/L4-Chap2-逻辑门电路.pdf",
     "Attachments/数字逻辑与数字电路/originals/L2-Chap2-逻辑代数.pdf",
