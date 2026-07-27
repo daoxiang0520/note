@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/马克思主义原理/notes/ch4-资本主义本质.md",
+                "file": "3-Resources/AI/AI相关.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch4-资本主义本质"
+              "title": "AI相关"
             }
           }
         ]
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/数字逻辑与数字电路/originals/L6-Chap3-Chap4-组合逻辑电路分析与设计.pdf",
+                "file": "3-Resources/AI/AI相关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "L6-Chap3-Chap4-组合逻辑电路分析与设计 的大纲"
+              "title": "AI相关 的大纲"
             }
           },
           {
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,12 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ba4464b23531c5",
+  "active": "853fb5761c7add57",
   "lastOpenFiles": [
+    "Attachments/马克思主义原理/notes/ch4-资本主义本质.md",
     "Attachments/马克思主义原理/notes/ch2-实践与认识.md",
     "Attachments/马克思主义原理/originals/马克思主义基本原理_Tee1337.pdf",
     "Attachments/马克思主义原理/notes/ch3-社会存在与发展动力.md",
-    "Attachments/马克思主义原理/notes/ch4-资本主义本质.md",
     "Attachments/马克思主义原理/notes/ch1-物质与辩证法.md",
     "Attachments/马克思主义原理/马克思主义原理 知识库概览.md",
     "Attachments/马克思主义原理/马克思主义原理 知识库概览.md.tmp.37852.7fc2a210f81f",
